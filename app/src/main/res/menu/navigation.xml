@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_parking"
+        android:icon="@drawable/ic_car"
+        android:title="Parking" />
+
+    <item
+        android:id="@+id/navigation_scanner"
+        android:icon="@drawable/ic_bookings"
+        android:title="Bookings" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_account"
+        android:title="Account" />
+
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_more"
+        android:title="More"/>
+
+</menu>

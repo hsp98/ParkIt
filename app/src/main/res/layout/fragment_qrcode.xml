@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/bookings_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+
+    </ScrollView>
+
+    <!--<android.support.v4.widget.NestedScrollView-->
+        <!--android:id="@+id/qrcode_bottom_sheet"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="350dp"-->
+        <!--android:background="@android:color/holo_blue_light"-->
+        <!--app:behavior_hideable="true"-->
+        <!--app:behavior_peekHeight="55dp"-->
+        <!--app:layout_behavior="@string/bottom_sheet_behavior">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:orientation="vertical">-->
+
+            <!--<ImageView-->
+                <!--android:id="@+id/qr_code"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:src="@drawable/ic_parkit" />-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/text3"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="Scan This QR Code at Parking Lot Entry and Exit"-->
+                <!--android:paddingTop="10dp"-->
+                <!--android:paddingLeft="50dp"/>-->
+
+        <!--</LinearLayout>-->
+
+    <!--</android.support.v4.widget.NestedScrollView>-->
+</LinearLayout>

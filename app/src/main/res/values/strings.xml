@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Park It</string>
+    <string name="google_maps_api_key">AIzaSyABFnAC-Mk6QDtJ1NktiYtv2xrYCPO4m9g</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="pref_file">com.abc.preference.file</string>
+    <string name="pref_login_status">com.abc.preference_login_status</string>
+    <string name="pref_user_name">com.abc.preference_user_name</string>
+
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_menu_screen_fragment">MenuScreenFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

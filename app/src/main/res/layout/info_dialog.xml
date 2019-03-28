@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/parking_lot_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Parking Lot Name"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/parking_lot_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Parking Lot Address"
+        android:padding="16dp"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/parking_lot_space"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Space Available"
+        android:padding="16dp"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/parking_lot_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textSize="16sp"
+        android:text="Price"/>
+
+</LinearLayout>
