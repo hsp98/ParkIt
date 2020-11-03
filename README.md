@@ -3,6 +3,7 @@ In Ahmedabad city, road side parking was resulting in a lot of traffic and becau
 
 ## Prerequisites
 ![js-standard-style](https://img.shields.io/badge/Android%20Studio-4.0.1-brightgreen)
+
 ![js-standard-style](https://img.shields.io/badge/Java-1.8-green)
 
 ## Installing
